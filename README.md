@@ -19,11 +19,11 @@ https://backend-api-test-expre.herokuapp.com/api/users : It will give details of
 
 [https://backend-api-test-expre.herokuapp.com/api/users?page=(page number)](https://backend-api-test-expre.herokuapp.com/api/users?page=1) : It will give 10 users depending upon the page number
 
-Example https://backend-api-test-expre.herokuapp.com/api/users?page=1
+> Example https://backend-api-test-expre.herokuapp.com/api/users?page=1
 
 https://backend-api-test-expre.herokuapp.com/api/users/:id : It will give details of a specific user 
 
-Example https://backend-api-test-expre.herokuapp.com/api/users/11
+> Example https://backend-api-test-expre.herokuapp.com/api/users/11
 
 
 ## Instructions
